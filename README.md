@@ -89,4 +89,4 @@
 - [How I was turn self XSS into reflected XSS](https://medium.com/@heinthantzin/how-i-was-able-to-turn-self-xss-into-reflected-xss-850e3d5a2beb)
 - [A Tale of 3 XSS](https://gauravnarwani.com/a-tale-of-3-xss/)
 - [Stored XSS on Google.com](https://medium.com/@bughunter.sec7/stored-xss-on-google-com-e7ac12f03b8e)
-- [Stored XSS in the Guides gameplaersion (www.dota2.com](https://medium.com/@bughunter.sec7/stored-xss-in-the-guides-gameplayversion-www-dota2-com-775fa9a1889b)
+- [Stored XSS in the Guides gameplaersion (www.dota2.com)](https://medium.com/@bughunter.sec7/stored-xss-in-the-guides-gameplayversion-www-dota2-com-775fa9a1889b)
