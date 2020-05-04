@@ -1,4 +1,4 @@
-# Awesome Bugbounty Writeups
+![Awesome Bugbounty Writeups](https://raw.githubusercontent.com/devanshbatham/Awesome-Bugbounty-Writeups/master/static/logo.PNG?token=AGVX7BOMW3TBNF3XPCQRWHK6WBTTO)
 
 ## Contents 
 
