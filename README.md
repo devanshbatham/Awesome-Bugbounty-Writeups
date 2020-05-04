@@ -32,7 +32,7 @@
 - [XSS in AMP4EMAIL(DOM clobbering)](https://research.securitum.com/xss-in-amp4email-dom-clobbering/)
 - [DOM Based XSS bug bounty writeup](https://hacknpentest.com/dom-based-xss-bug-bounty-writeup/)
 - [XSS will never die ](https://medium.com/@04sabsas/xss-will-never-die-eb3584081a5f)
-- [50000 USD XSS issue at avast desktop antivirus](https://medium.com/bugbountywriteup/5-000-usd-xss-issue-at-avast-desktop-antivirus-for-windows-yes-desktop-1e99375f0968)
+- [5000 USD XSS issue at avast desktop antivirus](https://medium.com/bugbountywriteup/5-000-usd-xss-issue-at-avast-desktop-antivirus-for-windows-yes-desktop-1e99375f0968)
 - [XSS to account takeover](https://noobe.io/articles/2019-10/xss-to-account-takeover)
 - [How Paypal helped me to generate XSS](https://medium.com/@pflash0x0punk/how-paypal-helped-me-to-generate-xss-9408c0931add)
 - [Bypass Uppercase filters like a PRO(XSS advanced methods)](https://medium.com/@Master_SEC/bypass-uppercase-filters-like-a-pro-xss-advanced-methods-daf7a82673ce)
