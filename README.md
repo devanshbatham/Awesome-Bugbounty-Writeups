@@ -371,3 +371,18 @@
 - [Telegram WEB client clickjacking vulnerability](https://www.seekurity.com/blog/general/telegram-web-client-clickjacking-vulnerability/)
 - [Facebook Clickjacking : how we put a new dress on facebook UI](https://www.seekurity.com/blog/write-ups/facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui/)
 
+## Local File Inclusion (LFI)
+
+- [RFI LFI Writeup](http://hassankhanyusufzai.com/RFI_LFI_writeup/)
+- [My first LFI](https://cyberzombie.in/my-first-lfi/)
+- [Bug bounty LFI at Google.com](https://medium.com/@vulnerabilitylabs/bug-bounty-lfi-at-google-com-3c2e17d8c912)
+- [Google LFI on production servers in redacted.google.com](https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/)
+- [LFI to 10 server pwn](https://nirmaldahal.com.np/lfi-to-10-server-pwn/)
+- [LFI in apigee portals](https://offensi.com/2019/01/31/lfi-in-apigee-portals/)
+- [Chain the bugs to pwn an organisation LFI unrestricted file upload to RCE](https://medium.com/@armaanpathan/chain-the-bugs-to-pwn-an-organisation-lfi-unrestricted-file-upload-remote-code-execution-93dfa78ecce)
+- [How we got LFI in apache drill recom like a boss](https://medium.com/bugbountywriteup/how-we-got-lfi-in-apache-drill-recon-like-a-boss-6f739a79d87d)
+- [Bugbounty journey from LFI to RCE](https://medium.com/@logicbomb_1/bugbounty-journey-from-lfi-to-rce-how-a69afe5a0899)
+- [LFI to RCE on deutche telekom bugbounty](https://medium.com/@maxon3/lfi-to-command-execution-deutche-telekom-bug-bounty-6fe0de7df7a6)
+- [From LFI to RCE via PHP sessions](https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/)
+- [magix bugbounty magix.com XSS RCE SQLI and LFI](https://www.rcesecurity.com/2014/04/magix-bug-bounty-magix-com-rce-sqli-and-xara-com-lfi-xss/)
+- [LFI in nokia maps](http://blog.shashank.co/2013/10/lfi-in-nokia-maps.html)
