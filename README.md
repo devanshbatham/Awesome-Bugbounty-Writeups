@@ -411,3 +411,18 @@
 - [Subdomain takeover vulnerability (Lamborghini Hacked)](https://blog.securitybreached.org/2017/10/10/subdomain-takeover-lamborghini-hacked/)
 - [Authentication bypass on uber's SSO via subdomain takeover](https://www.arneswinnen.net/2017/06/authentication-bypass-on-ubers-sso-via-subdomain-takeover/)
 - [Authentication bypass on SSO ubnt.com via Subdomain takeover of ping.ubnt.com](https://www.arneswinnen.net/2016/11/authentication-bypass-on-sso-ubnt-com-via-subdomain-takeover-of-ping-ubnt-com/)
+
+## Denial of Service (DOS)
+
+
+- [Long String DOS](https://medium.com/@shahjerry33/long-string-dos-6ba8ceab3aa0)
+- [AIRDOS](https://kishanbagaria.com/airdos/)
+- [Denial of Service DOS vulnerability in script loader (CVE-2018-6389)](https://www.pankajinfosec.com/post/700-denial-of-service-dos-vulnerability-in-script-loader-php-cve-2018-6389)
+- [Github actions DOS](https://blog.teddykatz.com/2019/11/12/github-actions-dos.html)
+- [Application level denial of service](https://evanricafort.blogspot.com/2019/08/application-level-denial-of-service-dos.html)
+- [Banner grabbing to DOS and memory corruption](https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb)
+- [DOS across Facebook endpoints](https://medium.com/@maxpasqua/dos-across-facebook-endpoints-1d7d0bc27c7f)
+- [DOS on WAF protected sites](https://www.hackerinside.me/2019/02/dos-on-waf-protected-sites-by-abusing.html)
+- [DOS on Facebook android app using zero width no break characters ](https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89)
+- [Whatsapp DOS vulnerability on android and iOS](https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4)
+- [Whatsapp DOS vulnerability in iOS android](https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253)
