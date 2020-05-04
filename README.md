@@ -510,3 +510,14 @@
 - [Pre domain wildcard CORS exploitation](https://medium.com/bugbountywriteup/pre-domain-wildcard-cors-exploitation-2d6ac1d4bd30)
 - [Exploiting misconfigured CORS on popular BTC site](https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6)
 - [Abusing CORS for an XSS on flickr](https://whitton.io/articles/abusing-cors-for-an-xss-on-flickr/)
+
+## Remote Code Execution (RCE) 
+
+- [Microsoft RCE bugbounty](https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/)
+- [OTP bruteforce account takeover](https://medium.com/@ranjitsinghnit/otp-bruteforce-account-takeover-faaac3d712a8)
+- [Attacking helpdesk RCE chain on deskpro with bitdefender](https://blog.redforce.io/attacking-helpdesks-part-1-rce-chain-on-deskpro-with-bitdefender-as-case-study/)
+- [Remote image upload leads to RCE inject malicious code](https://medium.com/@asdqwedev/remote-image-upload-leads-to-rce-inject-malicious-code-to-php-gd-image-90e1e8b2aada)
+- [Finding a p1 in one minute with shodan.io RCE](https://medium.com/@sw33tlie/finding-a-p1-in-one-minute-with-shodan-io-rce-735e08123f52)
+- [From recon to optimizing RCE results simple story with one of the biggest ICT company](https://medium.com/bugbountywriteup/from-recon-to-optimizing-rce-results-simple-story-with-one-of-the-biggest-ict-company-in-the-ea710bca487a)
+- [Uploading backdoor for fun and profit RCE DB creds P1](https://medium.com/@mohdaltaf163/uploading-backdoor-for-fun-and-profit-rce-db-cred-p1-2cdaa00e2125)
+- [Responsible Disclosure breaking out of a sandboxed editor to perform RCE](https://jatindhankhar.in/blog/responsible-disclosure-breaking-out-of-a-sandboxed-editor-to-perform-rce/)
