@@ -480,7 +480,7 @@
 - [Tesla Motors blind SQLI](https://bitquark.co.uk/blog/2014/02/23/tesla_motors_blind_sql_injection)
 - [SQLI in Nokia Sites](https://josipfranjkovic.blogspot.com/2013/07/sql-injections-in-nokia-sites.html)
 
-## 2FA related issue 
+## 2FA related issues
 
 - [2FA Bypass via logical rate limiting Bypass](https://medium.com/@jeppe.b.weikop/2fa-bypass-via-logical-rate-limiting-bypass-25ae2a4e1835)
 - [Bypass 2FA in a website](https://medium.com/sourav-sahana/bypass-2fa-in-a-website-d616eaead1e3)
@@ -492,3 +492,21 @@
 - [How I abused 2FA to maintain persistence after password recovery change google microsoft instragram](https://medium.com/@lukeberner/how-i-abused-2fa-to-maintain-persistence-after-a-password-change-google-microsoft-instagram-7e3f455b71a1)
 - [Bypass hackerone 2FA ](https://medium.com/japzdivino/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5)
 - [Facebook Bug bounty  : How I was able to enumerate instagram accounts who had enabled 2FA](https://medium.com/@zk34911/facebook-bug-bounty-how-i-was-able-to-enumerate-instagram-accounts-who-had-enabled-2fa-two-step-fddba9e9741c)
+
+## CORS related issues 
+
+- [CORS bug on google's 404 page (rewarded)](https://medium.com/@jayateerthag/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b)
+- [CORS misconfiguration leading to private information disclosure](https://medium.com/@sasaxxx777/cors-misconfiguration-leading-to-private-information-disclosure-3034cfcb4b93)
+- [CORS misconfiguration account takeover out of scope to grab items in scope](https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46)
+- [Chrome CORS](https://blog.bi.tk/chrome-cors/)
+- [Bypassing CORS](https://medium.com/@saadahmedx/bypassing-cors-13e46987a45b)
+- [CORS to CSRF attack](https://medium.com/@osamaavvan/cors-to-csrf-attack-c33a595d441)
+- [An unexploited CORS misconfiguration reflecting further issues](https://smaranchand.com.np/2019/05/an-unexploited-cors-misconfiguration-reflecting-further-issues/)
+- [Think outside the scope advanced cors exploitation techniques](https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397)
+- [A simple CORS misconfiguration leaked private post of twitter facebook instagram](https://medium.com/@nahoragg/a-simple-cors-misconfig-leaked-private-post-of-twitter-facebook-instagram-5f1a634feb9d)
+- [Explpoiting CORS misconfiguration](https://bugbaba.blogspot.com/2018/02/exploiting-cors-miss-configuration.html)
+- [Full account takeover through CORS with connection sockets](https://medium.com/@saamux/full-account-takeover-through-cors-with-connection-sockets-179133384815)
+- [Exploiting insecure CORS API api.artsy.net](https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net)
+- [Pre domain wildcard CORS exploitation](https://medium.com/bugbountywriteup/pre-domain-wildcard-cors-exploitation-2d6ac1d4bd30)
+- [Exploiting misconfigured CORS on popular BTC site](https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6)
+- [Abusing CORS for an XSS on flickr](https://whitton.io/articles/abusing-cors-for-an-xss-on-flickr/)
