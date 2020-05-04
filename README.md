@@ -1,6 +1,6 @@
-# Awesome-Bugbounty-Writeups
+# Awesome Bugbounty Writeups
 
-## XSS 
+## Cross Site Scripting (XSS)
 
 - [From P5 to P2 to 100 BXSS](https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82)
 - [Netflix Party Simple XSS](https://medium.com/@kristian.balog/netflix-party-simple-xss-ec92ed1d7e18)
