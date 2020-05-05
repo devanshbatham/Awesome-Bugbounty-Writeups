@@ -644,3 +644,9 @@
 - [eBay Source Code leak](https://slashcrypto.org/2018/11/28/eBay-source-code-leak/)
 - [Facebook source code disclosure in ads API](https://www.amolbaikar.com/facebook-source-code-disclosure-in-ads-api/)
 - [XS-Searching Google’s bug tracker to find out vulnerable source code](https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549)
+
+## Contributing 
+- Open Pull Requests
+- Send me links of writeups (My Twitter : [0xAsm0d3us](https://twitter.com/0xAsm0d3us)
+
+
