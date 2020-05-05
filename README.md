@@ -647,6 +647,6 @@
 
 ## Contributing 
 - Open Pull Requests
-- Send me links of writeups (My Twitter : [0xAsm0d3us](https://twitter.com/0xAsm0d3us)
+- Send me links of writeups to My Twitter : [0xAsm0d3us](https://twitter.com/0xAsm0d3us)
 
 
