@@ -1,4 +1,4 @@
-# Awesome Bugbounty Writeups
+![Awesome Bugbounty Writeups](https://raw.githubusercontent.com/devanshbatham/Awesome-Bugbounty-Writeups/master/static/logo.PNG)
 
 ## Contents 
 
@@ -605,3 +605,48 @@
 - [How I got 5500 from yahoo for RCE](https://medium.com/bugbountywriteup/how-i-got-5500-from-yahoo-for-rce-92fffb7145e6)
 - [RCE in Addthis](https://whitehatnepal.tumblr.com/post/149933960267/rce-in-addthis)
 - [Paypal RCE](https://artsploit.blogspot.com/2016/01/paypal-rce.html)
+- [My First RCE (Stressed Employee gets me 2x bounty)](https://medium.com/@abhishake100/my-first-rce-stressed-employee-gets-me-2x-bounty-c4879c277e37)
+- [Abusing ImageMagick to obtain RCE](https://strynx.org/imagemagick-rce/)
+- [How Snapdeal Kept their Users Data at Risk!](https://medium.com/@nanda_kumar/bugbounty-how-snapdeal-indias-popular-e-commerce-website-kept-their-user-data-at-risk-3d02b4092d9c)
+- [RCE via ImageTragick](https://rezo.blog/hacking/2019/11/29/rce-via-imagetragick.html)
+- [How I Cracked 2FA with Simple Factor Brute-force!](https://medium.com/clouddevops/bugbounty-how-i-cracked-2fa-two-factor-authentication-with-simple-factor-brute-force-a1c0f3a2f1b4)
+- [Found RCE but got Duplicated](https://medium.com/@smilehackerofficial/how-i-found-rce-but-got-duplicated-ea7b8b010990)
+- [“Recon” helped Samsung protect their production repositories of SamsungTv, eCommerce eStores](https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd)
+- [IDOR to RCE](https://www.rahulr.in/2019/10/idor-to-rce.html?m=1)
+- [RCE on AEM instance without JAVA knowledge](https://medium.com/@byq/how-to-get-rce-on-aem-instance-without-java-knowledge-a995ceab0a83)
+- [RCE with Flask Jinja tempelate Injection](https://medium.com/@akshukatkar/rce-with-flask-jinja-template-injection-ea5d0201b870)
+- [Race Condition that could result to RCE](https://medium.com/bugbountywriteup/race-condition-that-could-result-to-rce-a-story-with-an-app-that-temporary-stored-an-uploaded-9a4065368ba3)
+- [Chaining Two 0-Days to Compromise An Uber Wordpress](https://www.rcesecurity.com/2019/09/H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress/)
+- [Oculus Identity Verification bypass through Brute Force](https://medium.com/@karthiksoft007/oculus-identity-verification-bypass-through-brute-force-dbd0c0d3c37e)
+- [Used RCE as Root on marathon Instance](https://omespino.com/write-up-private-bug-bounty-usd-rce-as-root-on-marathon-instance/)
+- [Two easy RCE in Atlassian Products](https://medium.com/@valeriyshevchenko/two-easy-rce-in-atlassian-products-e8480eacdc7f)
+- [RCE in Ruby using mustache templates](https://rhys.io/post/rce-in-ruby-using-mustache-templates)
+- [About a Sucuri RCE…and How Not to Handle Bug Bounty Reports](https://www.rcesecurity.com/2019/06/about-a-sucuri-rce-and-how-not-to-handle-bug-bounty-reports/)
+- [Source code disclosure vulnerability](https://medium.com/@mohamedrserwah/source-code-disclose-vulnerability-b9e49584e2d2)
+- [Bypassing custom Token Authentication in a Mobile App](https://medium.com/@dortz/how-did-i-bypass-a-custom-brute-force-protection-and-why-that-solution-is-not-a-good-idea-4bec705004f9)
+- [Facebook’s Burglary Shopping List](https://www.7elements.co.uk/resources/blog/facebooks-burglary-shopping-list/)
+- [From SSRF To RCE in PDFReacter](https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129)
+- [Apache strust RCE](https://www.mohamedharon.com/2019/04/apache-strust-rce.html)
+- [Dell KACE K1000 Remote Code Execution](https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/)
+- [Handlebars Tempelate Injection and RCE](https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html)
+- [Leaked Salesforce API access token at IKEA.com](https://medium.com/@jonathanbouman/leaked-salesforce-api-access-token-at-ikea-com-132eea3844e0)
+- [Zero Day RCE on Mozilla's AWS Network](https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/)
+- [Escalating SSRF to RCE](https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9)
+- [Fixed : Brute-force Instagram account’s passwords](https://medium.com/@addictrao20/fixed-brute-force-instagram-accounts-passwords-938471b6e9d4)
+- [Bug Bounty 101 — Always Check The Source Code](https://medium.com/@spazzyy/bug-bounty-101-always-check-the-source-code-1adaf3f59567)
+- [ASUS RCE vulnerability on rma.asus-europe.eu](https://mustafakemalcan.com/asus-rce-vulnerability-on-rma-asus-europe-eu/)
+- [Magento – RCE & Local File Read with low privilege admin rights](https://blog.scrt.ch/2019/01/24/magento-rce-local-file-read-with-low-privilege-admin-rights/)
+- [RCE in Nokia.com](https://medium.com/@sampanna/rce-in-nokia-com-59b308e4e882)
+- [Two RCE in SharePoint](https://soroush.secproject.com/blog/2018/12/story-of-two-published-rces-in-sharepoint-workflows/)
+- [Token Brute-Force to Account Take-over to Privilege Escalation to Organization Take-Over](https://medium.com/bugbountywriteup/token-brute-force-to-account-take-over-to-privilege-escalation-to-organization-take-over-650d14c7ce7f)
+- [RCE in Hubspot with EL injection in HubL](https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html)
+- [Github Desktop RCE](https://pwning.re/2018/12/04/github-desktop-rce/)
+- [eBay Source Code leak](https://slashcrypto.org/2018/11/28/eBay-source-code-leak/)
+- [Facebook source code disclosure in ads API](https://www.amolbaikar.com/facebook-source-code-disclosure-in-ads-api/)
+- [XS-Searching Google’s bug tracker to find out vulnerable source code](https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549)
+
+## Contributing 
+- Open Pull Requests
+- Send me links of writeups (My Twitter : [0xAsm0d3us](https://twitter.com/0xAsm0d3us)
+
+
