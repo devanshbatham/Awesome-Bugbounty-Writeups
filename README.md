@@ -16,6 +16,7 @@
  - [Race Condition](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups/blob/master/README.md#race-condition)
  - [Remote Code Execution (RCE)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#remote-code-execution-rce)  
  - [Contributing](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#contributing)
+ - [Maintainers](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#maintainers)
 
 
 
