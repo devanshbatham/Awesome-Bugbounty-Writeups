@@ -651,3 +651,9 @@
 - Send me links of writeups to My Twitter : [0xAsm0d3us](https://twitter.com/0xAsm0d3us)
 
 
+## Maintainers 
+
+`This Repo is maintained by : `
+
+- [devanshbatham](https://github.com/devanshbatham)
+- [e13v3n-0xb](https://github.com/e13v3n-0xb)
