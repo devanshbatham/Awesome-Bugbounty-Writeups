@@ -121,7 +121,6 @@
 - [Facebook stored XSS](https://buer.haus/2014/06/16/facebook-stored-cross-site-scripting-xss-badges/)
 - [Ebay mobile reflected XSS](https://thehackerblog.com/ebay-mobile-reflected-xss-disclosure-writeup/index.html)
 - [Magix bugbounty XSS writeup](https://www.rcesecurity.com/2014/04/magix-bug-bounty-magix-com-rce-sqli-and-xara-com-lfi-xss/)
-- [imgur XSS](http://blog.shashank.co/2013/12/imgur-xss.html)
 - [Abusing CORS for an XSS on flickr ](https://whitton.io/articles/abusing-cors-for-an-xss-on-flickr/)
 - [XSS on google groups ](https://manuel-sousa.blogspot.com/2013/11/xss-google-groups-groupsgooglecom.html)
 - [Oracle XSS](http://blog.shashank.co/2013/11/oracle-xss.html)
