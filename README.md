@@ -650,6 +650,15 @@
 - [Facebook source code disclosure in ads API](https://www.amolbaikar.com/facebook-source-code-disclosure-in-ads-api/)
 - [XS-Searching Google’s bug tracker to find out vulnerable source code](https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549)
 
+## Buffer Overflow Writeups
+
+-[Buffer Overflow Attack Book pdf](http://www.cis.syr.edu/~wedu/seed/Book/book_sample_buffer.pdf)
+-[Github Reposirtory on Buffer Overflow Attack](https://github.com/npapernot/buffer-overflow-attack)
+-[Stack-Based Buffer Overflow Attacks: Explained and Examples](https://blog.rapid7.com/2019/02/19/stack-based-buffer-overflow-attacks-what-you-need-to-know/)
+-[How Buffer Overflow Attacks Work](https://www.netsparker.com/blog/web-security/buffer-overflow-attacks/)
+-[Binary Exploitation: Buffer Overflows](https://blog.usejournal.com/binary-exploitation-buffer-overflows-a9dc63e8b546)
+-[WHAT IS A BUFFER OVERFLOW? LEARN ABOUT BUFFER OVERRUN VULNERABILITIES, EXPLOITS & ATTACKS](https://www.veracode.com/security/buffer-overflow)
+
 ## Contributing 
 - Open Pull Requests
 - Send me links of writeups to My Twitter : [0xAsm0d3us](https://twitter.com/0xAsm0d3us)
