@@ -9,7 +9,8 @@
  - [Subdomain Takeover](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#subdomain-takeover)
  - [Denial of Service (DOS)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#denial-of-service-dos)
  - [Authentication Bypass](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#authentication-bypass)
- - [SQL injection](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#sql-injectionsqli) 
+ - [SQL injection](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#sql-injectionsqli)
+ - [Insecure Direct Object Reference (IDOR)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#insecure-direct-object-reference-idor)
  - [2FA Related issues](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#2fa-related-issues) 
  - [CORS Related issues](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cors-related-issues)
  - [Server Side Request Forgery (SSRF)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups/blob/master/README.md#server-side-request-forgery-ssrf)
@@ -48,6 +49,7 @@
 - [Blind XSS : a mind Game ](https://medium.com/@dirtycoder0124/blind-xss-a-mind-game-to-win-the-battle-4fc67c524678?)
 - [FireFox IOS QR code reader XSS(CVE-2019-17003)](https://payatu.com/blog/nikhil-mittal/firefox-ios-qr-code-reader-xss-(cve-2019-17003))
 - [HTML injection to XSS](https://evanricafort.blogspot.com/2019/12/html-injection-to-xss-bypass-in.html)
+- [CVE-2020-13487 | Authenticated Stored Cross-site Scripting in bbPress](https://hackerone.com/reports/881918)
 - [XSS at error page of repository code ](https://medium.com/@navne3t/150-xss-at-error-page-of-respository-code-4fc628892742)
 - [XSS like a Pro](https://www.hackerinside.me/2019/12/xss-like-pro.html)
 - [How I turned self XSS to stored XSS via CSRF](https://medium.com/@abhishake100/how-i-turned-self-xss-to-stored-via-csrf-d12eaaf59f2e)
@@ -502,6 +504,14 @@
 - [Magix Bug Bounty: magix.com (RCE, SQLi) and xara.com (LFI, XSS)](https://www.rcesecurity.com/2014/04/magix-bug-bounty-magix-com-rce-sqli-and-xara-com-lfi-xss/)
 - [Tesla Motors blind SQLI](https://bitquark.co.uk/blog/2014/02/23/tesla_motors_blind_sql_injection)
 - [SQLI in Nokia Sites](https://josipfranjkovic.blogspot.com/2013/07/sql-injections-in-nokia-sites.html)
+
+## Insecure Direct Object Reference (IDOR)
+
+- [Disclose Private Dashboard Chart's name and data in Facebook Analytics](https://bugreader.com/jubabaghdad@disclose-private-dashboard-charts-name-and-data-in-facebook-analytics-184)
+- [Disclosing privately shared gaming clips of any user](https://bugreader.com/rony@disclosing-privately-shared-gaming-clips-of-any-user-128)
+- [Adding anyone including non-friend and blocked people as co-host in personal event!](https://bugreader.com/binit@adding-anyone-including-non-friend-and-blocked-people-as-co-host-in-personal-event-181)
+- [Page analyst could view job application details](https://bugreader.com/rony@page-analyst-could-view-job-application-details-213)
+- [Deleting Anyone's Video Poll](https://bugreader.com/testgrounds@deleting-anyones-video-poll-175)
 
 ## 2FA related issues
 
