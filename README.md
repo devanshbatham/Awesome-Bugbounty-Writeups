@@ -1,7 +1,8 @@
 ![Awesome Bugbounty Writeups](https://raw.githubusercontent.com/devanshbatham/Awesome-Bugbounty-Writeups/master/static/logo.PNG)
 
 ## Contents 
-
+ 
+ - [1st year Bug Bounty Experiences](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#bug-bounty-experiences)
  - [Cross Site Scripting (XSS)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cross-site-scripting-xss)
  - [Cross Site Request Forgery (CSRF)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cross-site-request-forgery-csrf)
  - [Clickjacking (UI Redressing Attack)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#clickjacking-ui-redressing-attack)
@@ -20,6 +21,9 @@
  - [Maintainers](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#maintainers)
 
 
+## Bug Bounty Experiences
+
+- [1st year of Bug Bounty Hunting experience by Mehedi Hasan Remon](https://medium.com/@remonsec/my-1st-year-of-bug-bounty-experience-4fd3da772935)
 
 ## Cross Site Scripting (XSS)
 
