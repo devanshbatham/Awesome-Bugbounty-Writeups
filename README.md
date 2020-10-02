@@ -586,8 +586,10 @@
 - [Race condition bypassing team limit](https://medium.com/@arbazhussain/race-condition-bypassing-team-limit-b162e777ca3b)
 - [Race condition on web](https://www.josipfranjkovic.com/blog/race-conditions-on-web)
 - [Race condition bugs on Facebook](https://josipfranjkovic.blogspot.com/2015/04/race-conditions-on-facebook.html)
-
-
+- [Hacking Banks With Race Conditions](https://medium.com/swlh/hacking-banks-with-race-conditions-2f8d55b45a4b)
+- [Race Condition Bug In Web App: A Use Case](https://medium.com/@ciph3r7r0ll/race-condition-bug-in-web-app-a-use-case-21fd4df71f0e)
+- [RACE Condition vulnerability found in bug-bounty program](https://medium.com/@pravinponnusamy/race-condition-vulnerability-found-in-bug-bounty-program-573260454c43)
+- [How to check Race Conditions in Web Applications](https://medium.com/@valeriyshevchenko/how-to-check-race-conditions-in-web-applications-338f73937992)
 
 ## Remote Code Execution (RCE) 
 
