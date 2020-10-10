@@ -15,7 +15,8 @@
  - [CORS Related issues](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cors-related-issues)
  - [Server Side Request Forgery (SSRF)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups/blob/master/README.md#server-side-request-forgery-ssrf)
  - [Race Condition](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups/blob/master/README.md#race-condition)
- - [Remote Code Execution (RCE)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#remote-code-execution-rce)  
+ - [Remote Code Execution (RCE)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#remote-code-execution-rce)
+ - [Android Pentesting](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#android-pentesting) 
  - [Contributing](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#contributing)
  - [Maintainers](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#maintainers)
 
@@ -670,6 +671,10 @@
 -[How Buffer Overflow Attacks Work](https://www.netsparker.com/blog/web-security/buffer-overflow-attacks/)
 -[Binary Exploitation: Buffer Overflows](https://blog.usejournal.com/binary-exploitation-buffer-overflows-a9dc63e8b546)
 -[WHAT IS A BUFFER OVERFLOW? LEARN ABOUT BUFFER OVERRUN VULNERABILITIES, EXPLOITS & ATTACKS](https://www.veracode.com/security/buffer-overflow)
+
+## Android Pentesting
+
+-[Android Pentesting Lab (Step by Step guide for beginners!)](https://medium.com/bugbountywriteup/android-pentesting-lab-4a6fe1a1d2e0)
 
 ## Contributing 
 - Open Pull Requests
