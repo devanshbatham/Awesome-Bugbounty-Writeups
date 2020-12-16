@@ -674,7 +674,7 @@
 
 ## Android Pentesting
 
--[Android Pentesting Lab (Step by Step guide for beginners!)](https://medium.com/bugbountywriteup/android-pentesting-lab-4a6fe1a1d2e0)
+- [Android Pentesting Lab (Step by Step guide for beginners!)](https://medium.com/bugbountywriteup/android-pentesting-lab-4a6fe1a1d2e0)
 
 ## Contributing 
 - Open Pull Requests
