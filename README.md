@@ -445,7 +445,6 @@
 - [AIRDOS](https://kishanbagaria.com/airdos/)
 - [Denial of Service DOS vulnerability in script loader (CVE-2018-6389)](https://www.pankajinfosec.com/post/700-denial-of-service-dos-vulnerability-in-script-loader-php-cve-2018-6389)
 - [Github actions DOS](https://blog.teddykatz.com/2019/11/12/github-actions-dos.html)
-- [Application level denial of service](https://evanricafort.blogspot.com/2019/08/application-level-denial-of-service-dos.html)
 - [Banner grabbing to DOS and memory corruption](https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb)
 - [DOS across Facebook endpoints](https://medium.com/@maxpasqua/dos-across-facebook-endpoints-1d7d0bc27c7f)
 - [DOS on WAF protected sites](https://www.hackerinside.me/2019/02/dos-on-waf-protected-sites-by-abusing.html)
