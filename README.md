@@ -1,6 +1,3 @@
-![Awesome Bugbounty Writeups](https://raw.githubusercontent.com/devanshbatham/Awesome-Bugbounty-Writeups/master/static/logo.PNG)
-
-
 ## __Want to support my work?__
 If you think my work has added some value to your existing knowledge, then you can [Buy me a Coffee here](https://www.buymeacoffee.com/Asm0d3us) (and who doesn't loves a good cup of coffee?')
 
